@@ -3,7 +3,7 @@ A mod for ***Balatro*** that speeds up all animations and transitons, so you can
 
 # How to install
 
-1) Install Steamodded (SMODS) for Balatro following its README. This typically creates a `Mods/` folder next to the game files and an in-game Mods menu.
+1) Install Steamodded (SMODS) for Balatro following its README. This typically creates a `Mods/` folder next to the game files and an in game Mods menu.
 2) Copy the `NoAnimations` folder from this repository's releases into your Balatro `Mods/` directory.
 3) Launch Balatro, open the Mods menu, enable "NoAnimations", then restart the game if prompted.
 
