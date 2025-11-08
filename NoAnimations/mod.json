@@ -1,0 +1,16 @@
+{
+  "id": "no_animations",
+  "name": "NoAnimations",
+  "display_name": "No Animations",
+  "author": ["qrunk"],
+  "description": "Skips or shortens most animations and transitions for faster runs.",
+  "prefix": "na",
+  "main_file": "main.lua",
+  "version": "0.1.0",
+  "dependencies": [
+    "Steamodded (>=1.*)"
+  ],
+  "badge_colour": "222222",
+  "badge_text_colour": "FFFFFF",
+  "priority": 0
+}
